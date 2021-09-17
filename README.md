@@ -1,6 +1,6 @@
 # Data-Analytics
 Analysis of data on various popular datasets
-## Game Preview
+## Analysis Preview
 
 <p align="center">
   <img src="preview.png.png" width="700" alt="accessibility text">
